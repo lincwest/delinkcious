@@ -1,4 +1,4 @@
-module github.com/the-gigi/delinkcious
+module github.com/lincwest/delinkcious
 
 go 1.14
 
